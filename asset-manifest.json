@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/infinitscrolling/static/js/main.9a845dc2.chunk.js",
-    "main.js.map": "/infinitscrolling/static/js/main.9a845dc2.chunk.js.map",
+    "main.js": "/infinitscrolling/static/js/main.4baac610.chunk.js",
+    "main.js.map": "/infinitscrolling/static/js/main.4baac610.chunk.js.map",
     "runtime-main.js": "/infinitscrolling/static/js/runtime-main.b248e1ed.js",
     "runtime-main.js.map": "/infinitscrolling/static/js/runtime-main.b248e1ed.js.map",
     "static/js/2.fdd905dc.chunk.js": "/infinitscrolling/static/js/2.fdd905dc.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.b248e1ed.js",
     "static/js/2.fdd905dc.chunk.js",
-    "static/js/main.9a845dc2.chunk.js"
+    "static/js/main.4baac610.chunk.js"
   ]
 }
